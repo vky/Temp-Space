@@ -1,3 +1,4 @@
+# Blizzard API docs - blizzard.github.com/api-wow-docs/
 import urllib2
 import json
 
